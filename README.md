@@ -1,4 +1,4 @@
-# Reverie-Sweeper
+# Reverie Sweeper
 
 This tool helps to cover the user's tracks on a particular computer where any of the supported games have been played.
 
