@@ -2,7 +2,7 @@
 
 This tool sweeps the user's tracks on a particular computer where any of the supported games have been played.
 
-There are currently 3 supported games - League of Legends, CS:GO and Crossfire.
+There is currently 1 supported games - League of Legends
 
 This is an early version of the software and is still under active development.
 
